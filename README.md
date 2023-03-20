@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mudavath Raju</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
-<img align="right" width="400" alt="web_developer" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"></img>
+<img align="right" width="400" alt="web_developer" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mrju&label=Profile%20views&color=0e75b6&style=flat" alt="1mrju" /> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap,JQuery, React**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap, JQuery, ReactJS**
 
 - 📫 How to reach me **rajuchavan14599@gmail.com**
 
